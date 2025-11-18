@@ -1,3 +1,3 @@
 # day1.py
-name = input("Enter your name: ")
+name = shariq("Enter your name: ")
 print("Hello", name, "- Linux Mint + Python work!")
